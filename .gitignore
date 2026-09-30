@@ -1,0 +1,9 @@
+# .gitignore
+.ipynb_checkpoints/    # basura que deja Jupyter
+__pycache__/
+
+.venv/
+.env                   # credenciales: NUNCA
+datos/crudos/          # datasets grandes
+*.csv.gz
+~$*                    # temporales de Word y Excel

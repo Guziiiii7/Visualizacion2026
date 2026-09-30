@@ -1,0 +1,2 @@
+# .gitattributes — evita que Git dañe tus PDFs e imágenes en Windows
+* -text
